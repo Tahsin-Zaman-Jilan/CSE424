@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/1IAtJL6jQif5aUa9B8CpPQHLvIHLoOLh4nPA_Ppr2
 Project title:
 Detection of effects of Light Pollution using Machine Learning
 
-Group Number: 30
+Group Number: 06
 
 20101541	Mahdi Hasan Bhuiyan
 20101562	Parom Guha Neogi
