@@ -1,0 +1,17 @@
+Project title:
+Detection of effects of Light Pollution using Machine Learning
+
+Overleaf link.
+https://www.overleaf.com/project/64160b04ac5ac81d0c88f400
+
+
+
+
+Group Number: 06
+
+20101541	Mahdi Hasan Bhuiyan
+20101562	Parom Guha Neogi
+20101581	Tahsin Zaman Jilan
+23141057	Lamia Nurtaj
+
+
